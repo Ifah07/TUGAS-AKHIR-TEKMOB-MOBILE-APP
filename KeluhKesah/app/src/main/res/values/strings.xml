@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keluh Kesah</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
